@@ -1,0 +1,15 @@
+total yearly salary grouped by department
+
+create a file first name last name
+favorite color
+grab contents of the file
+lookup how to read a file in node js
+
+create a file with your first and last name one line 
+line 2 add favorite color
+
+create a program to read in step 3 and colsolelog(
+"the data on line {{{1}}} is " {{{the line one data}}}
+"the data on line {{{2}}} is " {{{the line one data}}}
+
+upload both files to the google classroom assignment
