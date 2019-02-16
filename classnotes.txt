@@ -1,0 +1,22 @@
+touch mydata.txt
+echo Andre Braunsdorf > mydata.txt
+cat mydata.txt
+echo Crimson >> mydata.txt
+
+// import the javascript fs module
+var fs = require("fs")
+require- imports the library
+
+fs.readFile("mydata.txt", 'utf8', function(err, data) {
+
+})
+
+throw is a form of console logging for outputting error to the user 
+throw catch
+
+fs stands for file system
+fs allows you to read, modify, create, delete
+it allos you to do anything you can do from the command line
+
+FAT- File Allocation Transfer
+utf8- unicode transfer format
