@@ -1,0 +1,19 @@
+var str = "('d001','Marketing'),"
+str = str.substring(str.indexOf("d"); + 1);
+
+only interest in current salary 9999
+what are the data components we are working with?
+departsalary.js and deptsalaryv01, 02, 03, 04, 
+vaar busines
+
+var departmentid [d001, d002,
+var departments
+var employeeid [[100, 102, 103, 104, 104, 105], [200, 201, 202, 203
+var salaries [[], [], [].
+var employeeName
+
+ctrl, A
+get logic down
+
+
+from departments file put everything in arrays... then put even lines in 1 array and odds in another array
